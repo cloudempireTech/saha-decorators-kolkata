@@ -6,7 +6,7 @@
 - [ClickedIndia](https://www.clickedindia.net/qrbdo3qq1d/saha-decorator-kolkata.html): same 59/60 Bagmari Road address, wedding/flower/decorator category.
 - [Justdial gallery](https://www.justdial.com/Kolkata/Saha-Decorator-Near-Ultadanga-Foot-Bridge-Kankurgachi/033P28625_BZDET/photos): same street address but names business “Saha Decorator” and classifies it as catering; gallery advertises images, but originals/context could not be verified. No Justdial images, reviews, claimed rating, opening hours, business age, or catering claims used.
 - Google Maps address link on site is an address search, not a verified business profile. A matching Google Business profile, genuine attributable portfolio photos, original logo, and individual reviews were not confirmed. No unrelated search images used.
-- WhatsApp Web was signed out during research. Number registration/business ownership could not be checked; WhatsApp links and customer outreach are therefore withheld. The verified mobile is offered as `tel:` and as an SMS draft option.
+- On 9 October 2026, the signed-in WhatsApp Web session opened a chat to the exact +91 98301 27369 number listed in the lead sheet and matching independent business directories. The chat header showed that exact number. Registration alone does not establish identity, so the sheet and directory agreement provides the corroboration. The site offers `https://wa.me/919830127369`, an enquiry draft for review, and a separate `tel:` call option. No claim of business approval is made.
 
 ## Asset origins
 
